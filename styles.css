@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+}
+.links {
+    align-items: center;
+    margin-left: 500px;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+h1 {
+    text-justify: center;
+}
+
+img {
+    border-radius: 50%;
+}
